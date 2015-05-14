@@ -6,6 +6,7 @@
 	background-color: #8B0000;
 	height: 100px;
 	width: 125px;
+	float: left;
 }
 .green{
 	background-color: #008000;
@@ -17,6 +18,7 @@
 	background-color: #FF8C00;
 	height: 100px;
 	width: 125px;
+	float: left;
 }
 .blue{
 	background-color: #0000FF;
