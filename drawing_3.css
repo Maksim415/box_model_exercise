@@ -12,6 +12,7 @@
 	background-color: #00FFFF;
 	height: 100px;
 	width: 100px;
+	float: left;
 }
 .slate{
 	background-color: #6A5ACD;
@@ -28,4 +29,5 @@
 	background-color: #DDA0DD;
 	height: 100px;
 	width: 100px;
+	float: left;
 }
