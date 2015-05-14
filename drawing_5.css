@@ -1,0 +1,108 @@
+.one{
+	height: 300px;
+	width: 100px;
+	float: left;
+}
+.three{
+	height: 300px;
+	width: 100px;
+	float: left;
+}
+.five{
+	height: 300px;
+	width: 100px;
+	float: left;
+}
+.single{
+	background-color: #4682B4;
+	height: 300px;
+	width: 100px;
+}
+.leftcon{
+	height: 300px;
+	width: 200px;
+	float: left;
+}
+.rightcon{
+	height: 300px;
+	width: 200px;
+	float: left;
+}
+.inner{
+	height: 100px;
+	width: 200px;
+}
+#spring{
+	background-color: #00FF7F;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#thistle{
+	background-color: #D8BFD8;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+#snow{
+	background-color: #FFFAFA;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#violet{
+	background-color: #EE82EE;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+#tomato{
+	background-color: #FF6347; 
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#silver{
+	background-color: #C0C0C0;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+
+
+#salmon{
+	background-color: #FA8072;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#sandy{
+	background-color: #F4A460;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+#seagreen{
+	background-color: #2E8B57;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#red{
+	background-color: #FF0000;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+#purple{
+	background-color: #800080; 
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#peru{
+	background-color: #CD853F;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
