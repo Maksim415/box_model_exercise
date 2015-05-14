@@ -1,0 +1,31 @@
+.container{
+	height: 100px;
+	width: 400px;
+}
+.red{
+	background-color: #8B0000;
+	float: right;
+	height: 100px;
+	width: 100px;
+}
+.cyan{
+	background-color: #00FFFF;
+	height: 100px;
+	width: 100px;
+}
+.slate{
+	background-color: #6A5ACD;
+	height: 100px;
+	width: 400px;
+}
+.peru{
+	background-color: #CD853F;
+	float: right;
+	height: 100px;
+	width: 100px;
+}
+.plum{
+	background-color: #DDA0DD;
+	height: 100px;
+	width: 100px;
+}
