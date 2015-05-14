@@ -1,6 +1,7 @@
 .leftcon{
 	width: 300px;
 	height: 300px;
+	float: left;
 }
 .cyan{
 	background-color: #00FFFF;
@@ -38,7 +39,7 @@
 	background-color: #A52A2A;
 	width: 100px;
 	height: 75px;
-	float: 
+	float: left;
 }
 #lime{
 	background-color: #7FFF00;
@@ -62,6 +63,7 @@
 	background-color: #DC143C;
 	width: 100px;
 	height: 75px;
+	float: left;
 }
 #darkgr{
 	background-color: #006400;
@@ -91,4 +93,5 @@
 	background-color: #FF00FF;
 	width: 100px;
 	height: 75px;
+	float: left;
 }
