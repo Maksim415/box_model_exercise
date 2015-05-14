@@ -19,6 +19,7 @@
 	background-color: #D2691E;
 	width: 100px;
 	height: 100px; 
+	float: left;
 }
 .brown{
 	background-color: #A52A2A;
@@ -36,6 +37,7 @@
 	background-color: #00FFFF;
 	width: 100px;
 	height: 100px;
+	float: left;
 }
 .darkgray{
 	background-color: #2F4F4F;
@@ -53,4 +55,5 @@
 	background-color: #8A2BE2;
 	width: 100px;
 	height: 100px;
+	float: left;
 }
