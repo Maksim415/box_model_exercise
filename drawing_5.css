@@ -1,36 +1,17 @@
-.one{
+.small{
 	height: 300px;
 	width: 100px;
 	float: left;
 }
-.three{
-	height: 300px;
-	width: 100px;
-	float: left;
-}
-.five{
-	height: 300px;
-	width: 100px;
-	float: left;
-}
-.single{
+.navy{
 	background-color: #4682B4;
 	height: 300px;
 	width: 100px;
 }
-.leftcon{
+.big{
 	height: 300px;
 	width: 200px;
 	float: left;
-}
-.rightcon{
-	height: 300px;
-	width: 200px;
-	float: left;
-}
-.inner{
-	height: 100px;
-	width: 200px;
 }
 #spring{
 	background-color: #00FF7F;
