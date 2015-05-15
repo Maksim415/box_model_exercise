@@ -5,41 +5,34 @@
 .square{
 	width: 100px;
 	height: 100px;
+	float: left;
 }
 .magenta{
 	background-color: #FF00FF;
-	float: right;
+
 
 }
 .blue{
 	background-color: #0000FF;
-	float: right;
 }
 .chocolate{
 	background-color: #D2691E; 
-	float: left;
 }
 .brown{
 	background-color: #A52A2A;
-	float: right;
 }
 .cornflower{
 	background-color: #6495ED;
-	float: right;
 }
 .cyan{
 	background-color: #00FFFF;
-	float: left;
 }
 .darkgray{
 	background-color: #2F4F4F;
-	float: right;
 }
 .wood{
 	background-color: #DEB887;
-	float: right;
 }
 .bluevio{
 	background-color: #8A2BE2;
-	float: left;
 }
