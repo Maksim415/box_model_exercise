@@ -1,12 +1,13 @@
 .container{
 	height: 100px;
 	width: 400px;
+
 }
 .red{
 	background-color: #8B0000;
-	float: right;
 	height: 100px;
 	width: 100px;
+	float: right;
 }
 .cyan{
 	background-color: #00FFFF;
@@ -18,12 +19,13 @@
 	background-color: #6A5ACD;
 	height: 100px;
 	width: 400px;
+	float: left;
 }
 .peru{
 	background-color: #CD853F;
-	float: right;
 	height: 100px;
 	width: 100px;
+	float: right;
 }
 .plum{
 	background-color: #DDA0DD;
