@@ -1,97 +1,65 @@
 .leftcon{
 	width: 300px;
 	height: 300px;
+}
+.bigbox{
+	width: 300px;
+	height: 300px;
 	float: left;
 }
 .cyan{
 	background-color: #00FFFF;
-	width: 300px;
-	height: 300px;
 }
 .rightcon{
 	width: 400px;
 	height: 300px;
-	float: left;
 }
-.inner{
+.rectangle{
 	width: 400px;
 	height: 75px;
+	float: left;
 }
-#aqua{
+.box{
+	width: 100px;
+	height: 75px;
+	float: left;
+}
+.aqua{
 	background-color: #00FFFF;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#black{
+.black{
 	background-color: #000000;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#blue{
+.blue{
 	background-color: #0000FF;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#brown{
+.brown{
 	background-color: #A52A2A;
-	width: 100px;
-	height: 75px;
-	float: left;
 }
-#lime{
+.lime{
 	background-color: #7FFF00;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#coral{
+.coral{
 	background-color: #FF7F50;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#beige{
+.beige{
 	background-color: #F5F5DC;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#crimson{
+.crimson{
 	background-color: #DC143C;
-	width: 100px;
-	height: 75px;
-	float: left;
 }
-#darkgr{
+.darkgr{
 	background-color: #006400;
-	width: 400px;
-	height: 75px;
-	float: right;
 }
-#salmon{
+.salmon{
 	background-color: #E9967A;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#gold{
+.gold{
 	background-color: #FFD700;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#gray{
+.gray{
 	background-color: #808080;
-	width: 100px;
-	height: 75px;
-	float: right;
 }
-#fuchsia{
+.fuchsia{
 	background-color: #FF00FF;
-	width: 100px;
-	height: 75px;
-	float: left;
 }
