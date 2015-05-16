@@ -1,89 +1,58 @@
-.small{
+.smallcon{
 	height: 300px;
+	width: 100px;
+	float: left;
+}
+.bigcon{
+	height: 300px;
+	width: 200px;
+	float: left;
+}
+.rectangle{
+	height: 300px;
+	width: 100px;
+}
+.box{
+	height: 100px;
 	width: 100px;
 	float: left;
 }
 .navy{
 	background-color: #4682B4;
-	height: 300px;
-	width: 100px;
 }
-.big{
-	height: 300px;
-	width: 200px;
-	float: left;
-}
-#spring{
+.spring{
 	background-color: #00FF7F;
-	height: 100px;
-	width: 100px;
-	float: left;
 }
-#thistle{
+.thistle{
 	background-color: #D8BFD8;
-	height: 100px;
-	width: 100px;
-	float: right;
 }
-#snow{
+.snow{
 	background-color: #FFFAFA;
-	height: 100px;
-	width: 100px;
-	float: left;
 }
-#violet{
+.violet{
 	background-color: #EE82EE;
-	height: 100px;
-	width: 100px;
-	float: right;
 }
-#tomato{
+.tomato{
 	background-color: #FF6347; 
-	height: 100px;
-	width: 100px;
-	float: left;
 }
-#silver{
+.silver{
 	background-color: #C0C0C0;
-	height: 100px;
-	width: 100px;
-	float: right;
 }
-
-
-#salmon{
+.salmon{
 	background-color: #FA8072;
-	height: 100px;
-	width: 100px;
-	float: left;
 }
-#sandy{
+.sandy{
 	background-color: #F4A460;
-	height: 100px;
-	width: 100px;
-	float: right;
 }
-#seagreen{
+.seagreen{
 	background-color: #2E8B57;
-	height: 100px;
-	width: 100px;
-	float: left;
 }
-#red{
+.red{
 	background-color: #FF0000;
-	height: 100px;
-	width: 100px;
-	float: right;
 }
-#purple{
+.purple{
 	background-color: #800080; 
-	height: 100px;
-	width: 100px;
-	float: left;
 }
-#peru{
+.peru{
 	background-color: #CD853F;
-	height: 100px;
-	width: 100px;
-	float: right;
 }
