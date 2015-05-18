@@ -1,0 +1,34 @@
+.container{
+	height: 100px;
+	width: 400px;
+}
+.leftbox{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.rightbox{
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+.rectangle{
+	width: 400px;
+	height: 100px;
+	float: left;
+}
+.red{
+	background-color: #8B0000;
+}
+.cyan{
+	background-color: #00FFFF;
+}
+.slate{
+	background-color: #6A5ACD;
+}
+.peru{
+	background-color: #CD853F;
+}
+.plum{
+	background-color: #DDA0DD;
+}
