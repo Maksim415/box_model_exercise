@@ -1,12 +1,9 @@
-/*.outercon{
+.outercon{
 	width: 700px;
 	height: 300px;
-}*/
-.leftcon{
-	width: 300px;
-	height: 300px;
 }
-.bigbox{
+
+.leftcon{
 	width: 300px;
 	height: 300px;
 	float: left;
@@ -17,7 +14,7 @@
 .rightcon{
 	width: 400px;
 	height: 300px;
-	
+	float: left;
 }
 .rectangle{
 	width: 400px;
@@ -29,7 +26,7 @@
 	height: 75px;
 	float: left;
 }
-.navy{
+.aqua{
 	background-color: navy;
 }
 .black{
