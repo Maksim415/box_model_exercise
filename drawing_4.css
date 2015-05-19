@@ -1,3 +1,7 @@
+/*.outercon{
+	width: 700px;
+	height: 300px;
+}*/
 .leftcon{
 	width: 300px;
 	height: 300px;
@@ -13,6 +17,7 @@
 .rightcon{
 	width: 400px;
 	height: 300px;
+	
 }
 .rectangle{
 	width: 400px;
@@ -24,8 +29,8 @@
 	height: 75px;
 	float: left;
 }
-.aqua{
-	background-color: #00FFFF;
+.navy{
+	background-color: navy;
 }
 .black{
 	background-color: #000000;
