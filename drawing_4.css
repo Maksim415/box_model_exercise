@@ -1,0 +1,67 @@
+.outercon{
+	width: 700px;
+	height: 300px;
+}
+
+.leftcon{
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+.cyan{
+	background-color: #00FFFF;
+}
+.rightcon{
+	width: 400px;
+	height: 300px;
+	float: left;
+}
+.rectangle{
+	width: 400px;
+	height: 75px;
+	float: left;
+}
+.box{
+	width: 100px;
+	height: 75px;
+	float: left;
+}
+.aqua{
+	background-color: navy;
+}
+.black{
+	background-color: #000000;
+}
+.blue{
+	background-color: #0000FF;
+}
+.brown{
+	background-color: #A52A2A;
+}
+.lime{
+	background-color: #7FFF00;
+}
+.coral{
+	background-color: #FF7F50;
+}
+.beige{
+	background-color: #F5F5DC;
+}
+.crimson{
+	background-color: #DC143C;
+}
+.darkgr{
+	background-color: #006400;
+}
+.salmon{
+	background-color: #E9967A;
+}
+.gold{
+	background-color: #FFD700;
+}
+.gray{
+	background-color: #808080;
+}
+.fuchsia{
+	background-color: #FF00FF;
+}
