@@ -1,0 +1,67 @@
+.outercon{
+	height: 700px;
+	width: 850px;
+}
+.leftcon{
+	height: 600px;
+	width: 100px;
+	float: left;
+}
+.red{
+	background-color: #FF0000;
+}
+.midcon{
+	height: 250px;
+	width: 150px;
+	float: left;
+}
+.green{
+	background-color: #556B2F;
+}
+.top_rightcon{
+	height: 200px; 
+	width: 500px;
+	float: left;
+}
+.square{
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.blue{
+	background-color: #0000FF;
+}
+.cyan{
+	background-color: #00FFFF;
+}
+.rectangle{
+	height: 100px;
+	width: 300px;
+	float: left;
+}
+.peach{
+	background-color: #FF7F50;
+}
+.bottom_rightcon{
+	height: 500px; 
+	width: 450px;	
+	float: left;
+}
+.figure{
+	height: 200px; 
+	width: 120px;
+	float: left;
+}
+.magenta{
+	background-color: #8B008B;
+}
+.polygon{
+	height: 75px;
+	width: 160px;
+	float: left;
+}
+.stripe{
+	height: 500px;
+	width: 50px;
+	float: left;
+}
