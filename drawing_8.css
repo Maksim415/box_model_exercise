@@ -1,24 +1,28 @@
 .container1{
-	width: 900px;
+	width: 1000px;
 	height: 300px;
 	background-color: green;
 }
 .container2{
-	width: 900px;
+	width: 1000px;
 	height: 300px;
 	background-color: pink;
 }
 .container3{
-	width: 900px;
+	width: 1000px;
 	height: 300px;
 	background-color: orange;
 }
-/*^^^Delete WET code (con2 and con3) once complete. current usage to help with efficent layout*/
- .vertical_tiles{
+/*^^^Delete WET code(con2 and con3) once complete. current usage to help with efficent layout*/
+ .square{
  	width: 300px;
  	height: 300px;
- 	margin-left: 300px;
  	background-color: cyan;
+ }
+ .vertical{
+ 	margin-left: 350px;
+ 	margin-right: 350px;
+ 
  }
 .tile{
 	width: 50px;
@@ -27,11 +31,9 @@
 .right{
 	float: right;
 }
-.left{
-	float: left;
-}
  .pink{
  	background-color: #FF1493;
+
  }
  .yellow{
  	background-color: #FFFF00;
