@@ -1,38 +1,38 @@
-.container{
-	width: 1000px;
-	height: 300px;
-}
- .square{
+.top-container{
  	width: 300px;
  	height: 300px;
+ 	margin-left: 350px;
  	float: left;
  }
- .vertical{
- 	margin-left: 350px;
- 	margin-right: 350px;
+ .middle-container{
+ 	float:left;
+ 	width: 300px;
+ 	height: 300px;
  }
+ .clear{
+ 	clear: both;
+ }
+ .left-wrapper{
+ 	float:left;
+ }
+ .right-wrapper{
+ 	float: right;
+ }
+.center{
+	width: 400px;
+	height: 300px;
+	float: left;
+	background-color: #228B22;
+}
 .tile{
 	width: 50px;
 	height: 100px;
-	float: left;
-	clear: left;
-	margin-left: 50px;
-	margin-right: 50px;
-}
-.right{
-	float: right;
-	clear: none;
 }
 .rectangle{
 	width: 100px;
 	height: 50px;
 	float: left;
-	margin-top: 60px;
-}
-.center{
-	width: 400px;
-	height: 300px;
-	float: left;
+	margin-top: 70px;
 }
  .pink{
  	background-color: #FF1493;
@@ -42,7 +42,4 @@
  }
  .blue{
  	background-color: #0000FF;
- }
- .forest{
- 	background-color: #228B22;
  }
